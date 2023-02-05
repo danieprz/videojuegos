@@ -11,6 +11,6 @@ li {
     color:black;
 }
 img {
-    text-align: center;
-    alt: 42; height: 42;
+    align-content:  center;
+    alt:="42"; height="42";
 }
