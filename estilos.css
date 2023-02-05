@@ -10,3 +10,7 @@ li {
     font-size:16px;
     color:black;
 }
+img {
+    text-align: center;
+    alt: 42; height: 42;
+}
